@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1 style="text_align=center">Calculator</h1>
-      <form action="firstHomePage" method="get">
+<form action="firstHomePage" method="get">
 <label>first number:</label>
 <input type="text" name="n1" />
 <br />
@@ -20,10 +20,6 @@
 </label>
 <label>
 <input type="radio" name="r2" value="sub" />subtraction 
-<br />
-</label>
-<label>
-<input type="radio" name="r3" value="prod" />product
 <br />
 </label>
 </div>
